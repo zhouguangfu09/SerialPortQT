@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>busy.png</file>
+        <file>autoSend.png</file>
+        <file>soft.png</file>
+        <file>sysTray.png</file>
+    </qresource>
+</RCC>
