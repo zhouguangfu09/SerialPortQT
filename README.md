@@ -8,8 +8,8 @@
 
 ****
 ###软件主要界面
-![软件主界面](https://github.com/zhouguangfu09/SerialPortQT/tree/master/png/1.png)
+![软件主界面](https://github.com/zhouguangfu09/SerialPortQT/blob/master/png/1.png)
 
-![软件波形显示界面](https://github.com/zhouguangfu09/SerialPortQT/tree/master/png/2.png)
+![软件波形显示界面](https://github.com/zhouguangfu09/SerialPortQT/blob/master/png/2.png)
 
-![自动定时发送数据给下位机](https://github.com/zhouguangfu09/SerialPortQT/tree/master/png/3.png)
+![自动定时发送数据给下位机](https://github.com/zhouguangfu09/SerialPortQT/blob/master/png/3.png)
